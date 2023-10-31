@@ -117,7 +117,7 @@
 	html {
 		background-color:		_palette(accent2, bg);
 		background-attachment:	fixed,						fixed;
-		background-image:		url('images/overlay.png'),	url('../../images/1.jpg');
+		background-image:		url('images/overlay.png'),	url('../../images/first.png');
 		background-position:	top left,					center center;
 		background-repeat:		repeat,						none;
 		background-size:		auto,						cover;
@@ -1542,7 +1542,7 @@
 						&:first-child {
 							box-shadow: none !important;
 							margin-top: 0;
-							padding: (_size(element-margin) * 0.5) 0 0 0;
+							padding: (_size(element-margin) * 0.2) 0 0 0;
 						}
 
 						&:nth-child(2n + 1) {
