@@ -2882,11 +2882,11 @@ input, select, textarea {
 			}
 
 			#footer footer a {
-				color: #366482;
+				color: inherit;
 			}
 
 				#footer footer a:hover {
-					color: #99a5bc !important;
+					color: #ffffff !important;
 				}
 
 			#footer footer .copyright {
